@@ -1,6 +1,6 @@
 # Supervivientes del Titanic</br> 
 ### Predicción de clases aplicando Regresión Logística y Bosques Aleatorios
-<p align="center">
+<p align="left">
 <img src="https://i.ibb.co/NtqytTw/Ti4.jpg">
 </p>
 El objeto del presente código es el de desarrollar un modelo predictivo lo más confiable y acertado posible para determinar los supervivientes del accidente del RMS TITANIC aplicando algoritmos de Machine Learning.</br>
